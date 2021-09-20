@@ -1,0 +1,122 @@
+*{
+	margin:0;
+	padding-right: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+.container{
+	width: 1140px;
+	margin: 0 auto;
+	
+}
+
+body{
+	
+    
+    background-repeat: no-repeat;
+   
+}
+
+.section{
+	background: url(../img/bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	float: left;
+	margin: 60px 0px;
+    padding: 40px 0px;
+}
+
+.content{
+	width: 50%;
+    float: left;
+}
+.content h2{
+	color: white;
+    font-weight: bold;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.content h2 span{
+	color: #fd02fd;
+}
+
+.content p{
+	color: white;
+    margin: 10px 0px;
+}
+}
+
+.content ul{
+	
+    margin: 25px 0px;
+}
+
+.content ul li{
+	color: white;
+    margin-bottom: 10px;
+    list-style: none;
+
+}
+
+.content ul li a{
+	text-decoration: none;
+    color: #f9f9f9;
+}
+
+.content ul li a i{
+	width: 20px;
+	margin-left: -40px;
+}
+
+.learnmore-btn{
+	background: cyan;
+    color: white;
+    padding: 6px 25px;
+    border: none;
+    margin: 18px auto;
+    text-transform: uppercase;
+    border-radius: 50px;
+}
+
+.form{
+	width: 50%;
+    float: left;
+    background-color: #4dd0e1f2;
+    margin: 10px auto;
+    padding: 45px 0;
+    text-align: center;
+}
+
+.form h2{
+	text-transform: uppercase;
+    font-size: 25px;
+   
+}
+
+.form p{
+	text-align: center;
+    margin: 10px 15px;
+}
+
+.form-control{
+	width: 55%;
+    margin-bottom: 10px;
+    padding: 8px;
+    text-align: center;
+    text-transform: capitalize;
+    border: none;
+}
+
+.content-btn{
+	background: black;
+    color: white;
+    margin: 0 auto;
+    display: block;
+    padding: 6px 25px;
+    text-transform: uppercase;
+    border: none;
+    box-shadow: 1px 4px 1px #000000d9;
+    cursor: pointer;
+}
